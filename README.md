@@ -1,7 +1,8 @@
 # Covid-19_India_Analysis_PowerBi
 
 Problem Statement - Analysis of COVID-19 Cases in India
-Using the Dataset following questions were attempted
+
+**Using the Dataset following questions were attempted**
 
 1. Which state has the highest number of active COVID-19 cases as recorded on 31 July 2020?
 
