@@ -18,7 +18,7 @@ Problem Statement - Analysis of COVID-19 Cases in India
     
 4. Choose the correct order of the top three mortality rates observed for the given states as recorded on 15 July 2020.
    
-  ** Gujarat > Maharashtra > Madhya Pradesh** 
+   **Gujarat > Maharashtra > Madhya Pradesh** 
     
 5. Between 10 July 2020 and 20 July 2020, which state had the second highest spike in the number of confirmed cases?
    
